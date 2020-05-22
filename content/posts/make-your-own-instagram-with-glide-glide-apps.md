@@ -8,7 +8,7 @@ date: 2020-05-22T14:52:24.832Z
 featureImage: /uploads/maxresdefault.jpg
 ---
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/B8ivh42ZqVA)
+[![Watch the video](https://i.postimg.cc/YSCg4QTS/Start-tutorial.png)](https://www.youtube.com/embed/B8ivh42ZqVA)
 
 
 The following tutorial guides you through Make Your Own Instagram with Glide | Glide Apps
