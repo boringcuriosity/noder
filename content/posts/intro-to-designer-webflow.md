@@ -10,6 +10,8 @@ featureImage: /uploads/maxresdefault-1-.jpg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8ivh42ZqVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/B8ivh42ZqVA)
+
 
 ## Lesson info
 
