@@ -18,3 +18,6 @@ export default {
     }
   ]
 }
+
+<script async src="https://cse.google.com/cse.js?cx=006988334545978584382:mifwlgutff4"></script>
+<div class="gcse-search"></div>
