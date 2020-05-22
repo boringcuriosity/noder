@@ -11,7 +11,7 @@ featureImage: /uploads/maxresdefault-1-.jpg
 
 The Designer is the heart of Webflow's visual web design platform, the canvas on which you'll design and develop beautiful, responsive websites. In this video, we'll take you on a quick tour of the Designer's key features and sections, so you'll know the lay of the land before we dive into details.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/B8ivh42ZqVA)
+[![Watch the video](https://i.postimg.cc/YSCg4QTS/Start-tutorial.png)](https://www.youtube.com/embed/B8ivh42ZqVA)
 
 ## Transcript
 
