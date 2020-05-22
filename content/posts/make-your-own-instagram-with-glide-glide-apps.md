@@ -7,7 +7,9 @@ author: Noder
 date: 2020-05-22T14:52:24.832Z
 featureImage: /uploads/maxresdefault.jpg
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B8ivh42ZqVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/embed/B8ivh42ZqVA)
+
 
 The following tutorial guides you through Make Your Own Instagram with Glide | Glide Apps
 
