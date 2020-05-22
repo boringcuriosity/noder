@@ -7,8 +7,6 @@ author: Noder
 date: 2020-05-22T14:52:24.832Z
 featureImage: /uploads/maxresdefault.jpg
 ---
-<!--StartFragment-->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8ivh42ZqVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The following tutorial guides you through Make Your Own Instagram with Glide | Glide Apps
@@ -36,5 +34,3 @@ The following tutorial guides you through Make Your Own Instagram with Glide | G
 [35:31](https://www.youtube.com/watch?v=B8ivh42ZqVA&t=2131s)If Then Else Column
 
 [38:12](https://www.youtube.com/watch?v=B8ivh42ZqVA&t=2292s)Creating public profiles
-
-<!--EndFragment-->
