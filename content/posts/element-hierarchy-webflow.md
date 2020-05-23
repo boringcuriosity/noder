@@ -15,7 +15,7 @@ To succeed in web design, and with Webflow, it's vital that you understand how e
 2. ‍How text styling is passed down from parent to child
 3. ‍How the sizes of parent elements and child elements affect one another
 
-[![Watch the video](https://i.postimg.cc/7PXVMswd/Start-tutorial-perfect.png)](https://youtube.com/embed/SffN3U1qOl0)
+[![Watch the video](https://i.ibb.co/f4nVsKR/Start-tutorial-perfect.png)](https://youtube.com/embed/SffN3U1qOl0)
 
 
 
