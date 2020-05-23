@@ -5,7 +5,7 @@ category:
   - Webflow
 author: Noder
 date: 2020-05-28T06:43:08.726Z
-featureImage: /uploads/maxresdefault-1-.jpg
+featureImage: /uploads/maxresdefault-3-.jpg
 ---
 ## Lesson info
 
