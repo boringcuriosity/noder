@@ -15,7 +15,7 @@ If you're new to web design, it's vital that you understand the differences betw
 
 
 
-[![Watch the video](https://i.postimg.cc/7PXVMswd/Start-tutorial-perfect.png)](https://youtube.com/embed/w-kBRUXsuSQ)
+[![Watch the video](https://i.ibb.co/f4nVsKR/Start-tutorial-perfect.png)](https://youtube.com/embed/w-kBRUXsuSQ)
 
 
 
