@@ -18,7 +18,7 @@ The box model describes how layout works on the web. Unlike other design environ
 
 
 
-[![Watch the video](https://i.postimg.cc/7PXVMswd/Start-tutorial-perfect.png)](https://youtube.com/embed/MrAnu4zdjjY)
+[![Watch the video](https://i.ibb.co/f4nVsKR/Start-tutorial-perfect.png)](https://youtube.com/embed/MrAnu4zdjjY)
 
 ## Transcript
 
