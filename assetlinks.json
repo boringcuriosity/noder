@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.esztlo",
+      "sha256_cert_fingerprints": ["CB:CE:A4:30:CB:11:90:59:43:ED:FD:DB:C2:89:B7:EF:8D:56:1C:BD:CA:37:2D:B0:B2:CA:8A:EF:6C:0F:CD:4A"]
+    }
+  }
+]
