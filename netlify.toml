@@ -3,3 +3,10 @@
   command = "npm run generate"
 [build.environment]
   NODE_VERSION = "11"
+  
+[[redirects]]
+  from = "/.well-known/assetlinks.json"
+  to = "https://unmasp.tech"
+  status = 200
+  force = true
+  conditions = {Language = ["en"]  
