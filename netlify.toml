@@ -9,3 +9,9 @@
   to = "https://boringcuriosity.github.io/pwa/assetlinks.json"
   status = 200
   force = true
+
+[[redirects]]
+  from = "pwabuilder-sw.js"
+  to = "https://boringcuriosity.github.io/pwa/pwabuilder-sw.js"
+  status = 200
+  force = true
