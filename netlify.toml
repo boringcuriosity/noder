@@ -6,6 +6,6 @@
   
 [[redirects]]
   from = "/.well-known/assetlinks.json"
-  to = "https://unmasp.tech"
+  to = "https://boringcuriosity.github.io/pwa/assetlinks.json"
   status = 200
   force = true
